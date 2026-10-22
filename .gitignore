@@ -1,0 +1,10 @@
+# Source reference supplied for design analysis; not part of the deployed site.
+code.html
+
+# Local visual-test artifacts.
+desktop.png
+mobile.png
+
+# Operating system files.
+.DS_Store
+Thumbs.db
